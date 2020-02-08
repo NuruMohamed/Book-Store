@@ -1,0 +1,13 @@
+#nav {
+    display: grid;
+    grid-template-columns: 6fr 1fr;
+    justify-items: center;
+    align-items: center;
+    background-color: black;
+    color: blanchedalmond;
+}
+
+#bookList {
+    display: grid;
+    text-align: center;
+}
